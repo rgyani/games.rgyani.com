@@ -25,7 +25,6 @@
       var userAgent = navigator.userAgent || navigator.vendor || window.opera;
       var ios = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream;
       if (ios) {
-        window.location = myapp://element/{ELEMENT_ID};
         window.setTimeout(() => {
           window.location.replace('https://apps.apple.com/us/app/cricket-legends/id6470269023')
         }, 25)
@@ -33,7 +32,6 @@
       }
       var android = /android/i.test(userAgent);
       if (android) {
-        window.location = myapp://element/{ELEMENT_ID};
         window.setTimeout(() => {
           window.location.replace('https://play.google.com/store/apps/details?id=com.rgyani.cricket.ipl');
         }, 25)
