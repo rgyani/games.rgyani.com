@@ -5,7 +5,7 @@ image: "img/letsbat.png"
 date:   2022-01-12
 ---
 
-Relive those favourite World Cup memories by putting yourselves in batsmen shoes.
+Relive those favorite World Cup memories by putting yourselves in batsmen shoes.
 
 Chase targets and help your team achieve World Cup glory all over again!
 
