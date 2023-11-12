@@ -25,7 +25,7 @@
       var android = /android/i.test(userAgent);
       if (android) {
         window.setTimeout(() => {
-          window.location.replace('https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.rgyani.cricket.ipl');
+          window.location.replace('market://details?id=com.rgyani.cricket.ipl')
         }, 25)
         return
       }
