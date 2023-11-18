@@ -8,7 +8,7 @@ date:   2023-11-09
 Experience the thrilling 10-over cricket competition against the finest bowlers in the world. Choose your squad, and rival the illustrious leagues head-on!
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/C6wY8-N-U4Q" frameborder="0"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LengGvlThG8" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div class="downloadButtonsContainer">
