@@ -5,8 +5,9 @@ image: "img/cricket.jpg"
 date:   2023-11-09
 ---
 
-* Immerse yourself into 10-over cricket action against the best bowlers in the world. Choose your squad, and rival the illustrious leagues head-on!
 Select your favorite team, and go head-to-head against the star leagues
+
+* Immerse yourself into 10-over cricket action against the best bowlers in the world. Choose your squad, and rival the illustrious leagues head-on!
 * Replay your favorite memories from famous campaigns
 * Choose your international team and face off against formidable opponents in an exhilarating T10 World Cup Campaign.
 * You can always practice in a quick 5-over game against world class bowlers.
