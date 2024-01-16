@@ -2,7 +2,7 @@
 title:  "Tennis"
 gameid: "tennis"
 image: "img/tennis.png"
-date:   2022-01-16
+date:   2024-01-16
 ---
 
 Experience tennis like never before!   
@@ -13,7 +13,7 @@ From beautiful arenas, to different capabilities, you will always have fun playi
 Despite the simple controls, the game is anything but casual! High-tier gameplay is deep, engaging and yet hard to master.
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/yyYeOQrJDuc" frameborder="0"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/o6OrkL2jzoc" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div class="downloadButtonsContainer">
