@@ -2,7 +2,7 @@
 title:  "Badminton 2D"
 gameid: "badminton"
 image: "img/badminton.png"
-date:   2022-01-15
+date:   2024-01-15
 ---
 
 Play this timeless Indian outdoor game, employing a wide variety of strokes in the right situations.
