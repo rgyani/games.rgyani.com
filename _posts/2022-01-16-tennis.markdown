@@ -1,7 +1,7 @@
 ---
 title:  "Tennis"
 gameid: "tennis"
-image: "img/tennis.png"
+image: "img/tennis.jpg"
 date:   2024-01-16
 ---
 

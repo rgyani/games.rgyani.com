@@ -1,7 +1,7 @@
 ---
 title:  "LetsPark 3D"
 gameid: "letspark"
-image: "img/letspark.png"
+image: "img/letspark.jpg"
 date:   2022-01-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:  "LetsBat - World Cup Edition"
 gameid : "letsbat"
-image: "img/letsbat.png"
+image: "img/letsbat.jpg"
 date:   2022-01-12
 ---
 
