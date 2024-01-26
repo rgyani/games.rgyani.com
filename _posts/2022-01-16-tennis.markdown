@@ -30,10 +30,7 @@ In the current version, we have the following features
 2. You select a venue, based on which, AI will select a player, and you compete against the player in a first to 7 points match.
 3. While in the game, you can use swipes on the mobile screen to control your shots. The goal being, just like a real game, to place the ball out of reach of the player.
 4. Currently, you can use forehand, backhand, volley and smash strokes. All animations are in place and I feel, work beautifully :)
-5. If and when you win a match, you get some rewards, which take time to open (can be sped-up, via video ads and/or gems) and you get character cards, which you can use to upgrade your chosen character(s).
-6. The upgraded characters have faster response times, better shot speed based on their characteristics
-7. There is also a practice mode where you play against the Ball-Machine to fine tune your skills
-
+5. You can also improve your skills by playing multiple mini-games
 
 ### ToDo List:
 
