@@ -13,11 +13,11 @@ Wild animals, hunger, thirst and cold all work against you. With a limited suppl
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Byk-MAm5Dbk" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-<div class="downloadButtonsContainer">
-    <a class="playStoreLink" target="_blank"
+<div class="download-buttons">
+    <a target="_blank"
        href="https://play.google.com/store/apps/details?id=com.rGyani.castaway">
-        <img class="playStore" src="img/ui/playstore.png"></a>
-    <a class="appStoreLink" target="_blank"
+        <img class="link" src="img/ui/playstore.png"></a>
+    <a target="_blank"
        href="https://apps.apple.com/us/app/survivor-series-the-islands/id1584565660">
-        <img class="appStore" src="img/ui/appstore.png"></a>
+        <img class="link" src="img/ui/appstore.png"></a>
 </div>

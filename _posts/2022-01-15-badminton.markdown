@@ -13,11 +13,11 @@ From powerful jumping smashes to delicate tumbling net returns, long rallies to 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/A6VHjeq4ytU" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-<div class="downloadButtonsContainer">
-    <a class="playStoreLink" target="_blank"
+<div class="download-buttons">
+    <a target="_blank"
        href="https://play.google.com/store/apps/details?id=com.rGyani.badminton">
-        <img class="playStore" src="img/ui/playstore.png"></a>
-    <a class="appStoreLink" target="_blank"
+        <img class="link" src="img/ui/playstore.png"></a>
+    <a target="_blank"
        href="https://apps.apple.com/us/app/badminton-2d/id1578451339">
-        <img class="appStore" src="img/ui/appstore.png"></a>
+        <img class="link" src="img/ui/appstore.png"></a>
 </div>

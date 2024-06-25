@@ -16,13 +16,13 @@ Despite the simple controls, the game is anything but casual! High-tier gameplay
     <iframe width="560" height="315" src="https://www.youtube.com/embed/o6OrkL2jzoc" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-<div class="downloadButtonsContainer">
-    <a class="playStoreLink" target="_blank"
+<div class="download-buttons">
+    <a target="_blank"
        href="https://play.google.com/store/apps/details?id=com.rGyani.Tennis">
-        <img class="playStore" src="img/ui/playstore.png"></a>
-    <a class="appStoreLink" target="_blank"
+        <img class="link" src="img/ui/playstore.png"></a>
+    <a  target="_blank"
        href="https://apps.apple.com/us/app/toonie-tennis/id1610304081">
-        <img class="appStore" src="img/ui/appstore.png"></a>
+        <img class="link" src="img/ui/appstore.png"></a>
 </div>
 
 In the current version, we have the following features

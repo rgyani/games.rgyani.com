@@ -1,44 +1,35 @@
 
-.downloadButtonsContainer {
-	display: inline-block;
+.download-buttons {
+	display: flex;
+    flex-wrap: wrap;
 	margin-top: 42px;
-	filter: $drop-shadow;
 }
 
-@media only screen and (max-width: 992px) {
-
-	.downloadButtonsContainer {
-		text-align: center;
-	}
-
+.download-buttons a {
+    width: 100%;
 }
 
-.playStore {
+.download-buttons img {
 	height: 45px;
-	margin-right: 24px;
+    width: auto; /* Maintain aspect ratio */
 }
 
-@media only screen and (max-width: 992px) {
+@media (min-width: 768px) {
+    .download-buttons {
+        flex-direction: row;
+    }
 
-	.playStore {
-		margin-right: 24px;
-		margin-bottom: 0px;
-	}
-
+    .download-buttons a {
+        width: 50%;
+    }
 }
 
-@media only screen and (max-width: 528px) {
-
-	.playStore {
-		margin-right: 0px;
-		margin-bottom: 24px;
-	}
-
+@media (max-width: 767px) {
+    .download-buttons {
+        flex-direction: column;
+    }
 }
 
-.appStore {
-	height: 45px;
-}
 
 .video-container{
   margin-top: 70px;

@@ -13,7 +13,7 @@ Chase targets and help your team achieve World Cup glory all over again!
     <iframe width="560" height="315" src="https://www.youtube.com/embed/iXCkaA6cVVE" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-<div class="downloadButtonsContainer">
+<div class="download-buttons">
     <a class="playStoreLink" target="_blank"
        href="https://play.google.com/store/apps/details?id=com.rgyani.letsbatwc">
         <img class="playStore" src="img/ui/playstore.png"></a>
