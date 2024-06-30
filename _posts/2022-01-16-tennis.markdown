@@ -6,10 +6,11 @@ date:   2024-01-16
 ---
 
 Experience tennis like never before!   
-Take control of your characters, decide if you want to be a baseline player or a volley master.
-Equip your players with the right equipment and match your wits against the best in the world
+Take control of your characters, decide if you want to be a baseline player or a volley master, a hard hitter or a tactical wizard.
 
 From beautiful arenas, to different capabilities, you will always have fun playing this simple but addictive game.  
+You can also improve your skills by playing multiple mini-games
+
 Despite the simple controls, the game is anything but casual! High-tier gameplay is deep, engaging and yet hard to master.
 
 <div class="video-container">
@@ -24,16 +25,3 @@ Despite the simple controls, the game is anything but casual! High-tier gameplay
        href="https://apps.apple.com/us/app/toonie-tennis/id1610304081">
         <img class="link" src="img/ui/appstore.png"></a>
 </div>
-
-In the current version, we have the following features
-1. You can choose your player's character, decide if you want to be a baseline player or a serve-volley master, counter puncher or an all-rounder.
-2. You select a venue, based on which, AI will select a player, and you compete against the player in a first to 7 points match.
-3. While in the game, you can use swipes on the mobile screen to control your shots. The goal being, just like a real game, to place the ball out of reach of the player.
-4. Currently, you can use forehand, backhand, volley and smash strokes. All animations are in place and I feel, work beautifully :)
-5. You can also improve your skills by playing multiple mini-games
-
-### ToDo List:
-
-1. PvP mode, where you can play online against another person, facebook friends in real-time. 
-2. Tuning and more tuning, on the player characteristics, the shot height while returning, the player movement considering the energy etc/
-3. Smoothing out the camera movement scripts
