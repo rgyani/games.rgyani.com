@@ -1,5 +1,5 @@
 ---
-title:  "Cricket Legends!"
+title:  "Cricket!"
 gameid: "cricket"
 image: "img/cricket.jpg"
 date:   2024-01-17
