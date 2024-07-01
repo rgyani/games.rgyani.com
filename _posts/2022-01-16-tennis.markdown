@@ -14,7 +14,7 @@ You can also improve your skills by playing multiple mini-games
 Despite the simple controls, the game is anything but casual! High-tier gameplay is deep, engaging and yet hard to master.
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/o6OrkL2jzoc" frameborder="0"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RcJv_bxShWc" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div class="download-buttons">
