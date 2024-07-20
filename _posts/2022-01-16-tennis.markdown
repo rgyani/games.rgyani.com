@@ -5,33 +5,34 @@ image: "img/tennis.jpg"
 date:   2024-01-16
 ---
 
-Serve, Smash, Slice, Volley in the ultimate arcade Tennis game!
+**Serve, Smash, Slice, Volley in the ultimate arcade Tennis game!**
 
-Step onto the court with <b>Toonie Tennis</b>, the ultimate arcade tennis experience!  
+Step onto the court with **Toonie Tennis**, the ultimate arcade tennis experience!  
 Whether you're a seasoned tennis pro or new to the sport, Toonie Tennis offers an exciting and immersive game that caters to all skill levels.
 
 With its dynamic gameplay, colorful graphics, and engaging mechanics, Toonie Tennis is a must-play for all sports enthusiasts.
 
-<b>Key Features:</b>
+**Key Features:**
 
-🎾 <b>Dynamic Tennis Action</b>: Enjoy fast-paced tennis matches with intuitive controls that make it easy to serve, volley, and smash your way to victory. The responsive touch controls ensure a smooth and realistic tennis experience. Whether you're using a mouse or a controller, you can choose the exact placement of your shots, delivering unmatched precision on the court.
+🎾 **Dynamic Tennis Action**: Enjoy fast-paced tennis matches with intuitive controls that make it easy to serve, volley, and smash your way to victory. The responsive touch controls ensure a smooth and realistic tennis experience. Whether you're using a mouse or a controller, you can choose the exact placement of your shots, delivering unmatched precision on the court.
 
-⚙️ <b>Realistic Physics</b>: Enjoy lifelike ball physics that react to every spin, slice, and smash you perform. Each match feels unique and challenging, thanks to our advanced physics engine.
+⚙️ **Realistic Physics**: Enjoy lifelike ball physics that react to every spin, slice, and smash you perform. Each match feels unique and challenging, thanks to our advanced physics engine.
 
-🎯 <b>Precision Shot Placement</b>: Master the art of precision with accurate shot placement. Aim for the corners, target your opponent's weak side, or go for that perfect lob with ease to exploit your opponent's weaknesses and dominate the court
+🎯 **Precision Shot Placement**: Master the art of precision with accurate shot placement. Aim for the corners, target your opponent's weak side, or go for that perfect lob with ease to exploit your opponent's weaknesses and dominate the court
 
-🏆 <b>Compete and Win</b>: Challenge yourself against AI opponents with varying skill levels and playstyles. Our AI adapts to your gameplay, ensuring that every match is a test of skill and strategy.
+🏆 **Compete and Win**: Challenge yourself against AI opponents with varying skill levels and playstyles. Our AI adapts to your gameplay, ensuring that every match is a test of skill and strategy.
 
-🤩 <b>Unique Characters and Courts</b>: Unlock and play with a wide range of fun, toon-styled characters, each bringing their unique flair to the game. Compete on diverse courts with stunning themes and environments that enhance the visual experience.
+🤩 **Unique Characters and Courts**: Unlock and play with a wide range of fun, toon-styled characters, each bringing their unique flair to the game. Compete on diverse courts with stunning themes and environments that enhance the visual experience.
 
-💪 <b>Skill Development</b>: Hone your skills with practice modes and drills designed to improve your technique and strategy. Perfect your timing, precision, and shot placement to outsmart your opponents.
+💪 **Skill Development**: Hone your skills with practice modes and drills designed to improve your technique and strategy. Perfect your timing, precision, and shot placement to outsmart your opponents.
 
+<br/>
 
-<b>Why Toonie Tennis?</b>
+**Why Toonie Tennis?**
 
 Toonie Tennis brings the excitement and competitiveness of real tennis to your fingertips. With its engaging gameplay, variety of characters and courts, and continuous updates, it's the perfect game for tennis lovers and sports gamers alike. Whether you're looking for a quick match or an intense tournament, Toonie Tennis offers endless fun and a top-tier tennis experience.
 
-<b>Download Now!</b>
+**Download Now!**
 
 Ready to hit the courts? Download Toonie Tennis today and start your journey to becoming the ultimate tennis champion!
 
