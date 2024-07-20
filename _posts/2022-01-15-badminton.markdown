@@ -32,7 +32,7 @@ Your goal is to deceive your opponent by forcing them to move as much as possibl
 
 ⁕ **Immersive Experience:** Feel the excitement of every rally and the satisfaction of a well-placed shot.
 
-Join the fun and challenge yourself in "Badminton 2D"! Download now and become a master of the court!
+Join the fun and challenge yourself in "Badminton 2D"! **Download now** and become a master of the court!
 
 
 <div class="video-container">
