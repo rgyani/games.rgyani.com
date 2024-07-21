@@ -31,6 +31,9 @@ Cricket Legends is more than just a game; it's a journey through cricket’s gre
 
 Download now and become a Cricket Legend!
 
+<div id="keywords" style="visibility: hidden">>
+cricket game, realistic cricket simulation, legendary matches, cricket stars, intuitive controls, stunning graphics, in-game commentary, progressive difficulty, no upgrades needed, authentic gameplay, cricket experience, play as legends, cricket simulation, sports game, mobile cricket game, cricket skills, hit sixes, take wickets, strategic gameplay, cricket fans
+</div>
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/LengGvlThG8" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -42,4 +45,9 @@ Download now and become a Cricket Legend!
     <a target="_blank"
        href="https://apps.apple.com/us/app/cricket-legends/id6470269023">
         <img class="link" src="img/ui/appstore.png"></a>
+</div>
+<div class="download-buttons">
+    <a target="_blank"
+       href="https://store.steampowered.com/app/3091200">
+        <img class="link" src="img/ui/steam.png"></a>
 </div>
