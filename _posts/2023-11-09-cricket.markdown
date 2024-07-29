@@ -35,7 +35,7 @@ Download now and become a Cricket Legend!
 cricket game, realistic cricket simulation, legendary matches, cricket stars, intuitive controls, stunning graphics, in-game commentary, progressive difficulty, no upgrades needed, authentic gameplay, cricket experience, play as legends, cricket simulation, sports game, mobile cricket game, cricket skills, hit sixes, take wickets, strategic gameplay, cricket fans
 </div>
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/LengGvlThG8" frameborder="0"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QTXwpHocYME" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div class="download-buttons">
