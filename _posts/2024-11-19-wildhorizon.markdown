@@ -16,7 +16,11 @@ Survive the wild, master the elements, solve puzzles, scale cliffs, swing ropes,
 - **Immersive Third-Person Exploration**:  
   Traverse a breathtaking, untamed world filled with jagged cliffs, steep slopes, and awe-inspiring vistas. The environment is as beautiful as it is deadly, capturing the raw power of nature.
 - **Dynamic Traversal and Movement Challenges**:  
-  Master fluid, precision-based mechanics to climb ledges, mantle plateaus, leap across gaps, and swing over deep chasms. Every action demands timing, planning, and stamina management, making survival as much about strategy as skill.
+ Surviving the Wild Horizon means mastering a variety of traversal techniques, including:
+  - Climb ledges, mantle plateaus and leap across gaps
+  - Wall runs across narrow gaps for heart-pounding escapes.
+  - Wall edge clings to navigate perilous ledges and tight spaces.    
+  - Rope swings over deep chasms and climbs to scale sheer vertical surfaces.
 - **Intricate Puzzle Mechanics**:  
   Unlock vital tools by solving puzzles that challenge your observation and logic.
 - **Wildlife Encounters**:  
@@ -59,9 +63,17 @@ Outsmarting them is your best bet.
 
 ### Think, Solve, Survive
 
-Throughout your journey, you'll find locked suitcases that could contain life-saving items—but opening them isn't as simple as turning a key. You'll need keen observation and logical deduction to open them, while a wrong combination will set you back, forcing you to reassess and try again.
+Throughout your journey, you'll find **locked suitcases** that could contain life-saving items—but opening them isn't as simple as turning a key. You'll need keen observation and logical deduction to open them, while a wrong combination will set you back, forcing you to reassess and try again.
 
 [!![WildHorizon Lockpick](/img/wildhorizon_lockpick.gif)](https://youtu.be/tw16tWZ05EM)
+
+### Diverse Environments to Explore
+In Wild Horizon, you'll traverse a variety of challenging environments, each offering its own unique obstacles and breathtaking views:
+- **Cliffs**: Navigate rocky, jagged cliffs with narrow ledges and dizzying heights.
+- **Caves**: Descend into dark, winding caves filled with hidden dangers and secrets.
+- **Snowy Mountains**: Brave the harsh cold and icy terrain of snow-covered peaks.
+ 
+Each environment presents different survival challenges, from scaling sheer cliffs to enduring freezing temperatures, all while you strive to find your way home.
 
 ### Will You Survive the Wild Horizon?
 The wilderness is unforgiving. The cliffs are steep, the predators are fierce, and the puzzles are tricky. Will you outlast nature and make it back to safety, or will the **Wild Horizon** become your final view?  
