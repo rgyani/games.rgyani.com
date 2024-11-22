@@ -15,12 +15,8 @@ Survive the wild, master the elements, solve puzzles, scale cliffs, swing ropes,
 
 - **Immersive Third-Person Exploration**:  
   Traverse a breathtaking, untamed world filled with jagged cliffs, steep slopes, and awe-inspiring vistas. The environment is as beautiful as it is deadly, capturing the raw power of nature.
-- **Dynamic Traversal and Movement Challenges**:  
- Surviving the Wild Horizon means mastering a variety of traversal techniques, including:
-  - Climb ledges, mantle plateaus and leap across gaps
-  - Wall runs across narrow gaps for heart-pounding escapes.
-  - Wall edge clings to navigate perilous ledges and tight spaces.    
-  - Rope swings over deep chasms and climbs to scale sheer vertical surfaces.
+- **Dynamic Traversal and Movement Challenges**: 
+  Perform daring maneuvers like mantling steep plateaus, leaping across perilous gaps, sprinting along wall to cross deadly chasms, swinging on ropes over dizzying heights, and clinging to narrow ledges to avoid plunging into the depths below.
 - **Intricate Puzzle Mechanics**:  
   Unlock vital tools by solving puzzles that challenge your observation and logic.
 - **Wildlife Encounters**:  
@@ -39,10 +35,18 @@ Unlike traditional survival games, **Wild Horizon** isn’t about chopping down 
 [!![WildHorizon Aircraft](/img/wildhorizon_aircraft.gif)](https://youtu.be/CbY-r-iZuDM)
 
 
+### Precision-Based Movement
+Your survival depends on mastering a set of fluid traversal mechanics designed to test your skill and strategy:
+- Climb ledges, mantle plateaus and leap across gaps
+- Wall runs across narrow gaps for heart-pounding escapes.
+- Rope swings over deep chasms and climbs to scale sheer vertical surfaces.
+- Wall edge clings to navigate perilous ledges and tight spaces. 
+Each maneuver is designed to test your precision and timing while offering unique solutions to environmental challenges.
 
-### Precision and Stamina: Your Keys to Survival
 
-Your journey relies purely on your skills, timing, and quick thinking. Every leap, every climb, every jump between ledges, and each carefully timed rope swing drains your stamina. 
+### Stamina: Your Keys to Survival
+
+Your journey relies purely on your skills, timing, and quick thinking. Every leap, every climb, every jump between ledges drains your stamina. 
 
 **You'll need to manage your stamina wisely**—lose focus, and you risk slipping, plummeting into the depths below
 
