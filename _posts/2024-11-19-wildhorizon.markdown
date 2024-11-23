@@ -11,6 +11,14 @@ Survive the wild, master the elements, solve puzzles, scale cliffs, swing ropes,
 **Wild Horizon: Edge of Survival** is an adventure game set amidst the perilous wilderness. As the lone survivor of a devastating plane crash, you must **navigate a rugged, rocky landscape**, **outwit fierce predators**, and **solve challenging puzzles** to survive. With only the terrain around you and your instincts to rely on, each step forward brings you closer to safety—or disaster.
 
 
+<div id="keywords" style="visibility: hidden">survival,parkour,cliff,puzzles,wildlife encounters,adventure,wilderness,nature,rope swing, ledge jumping,third-person exploration,immersive exploration,breathtaking landscapes,parkour mechanics,cliff climbing,rope swinging,ledge jumping,,stamina management,fluid parkour,climbing simulator,obstacle navigation,terrain mastery, action exploration, realistic physics, dangerous leaps, timed actions, parkour survival, ledge grabbing
+      </div>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6jvGG1lbvYE" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 ### Key Features:
 
 - **Immersive Third-Person Exploration**:  
