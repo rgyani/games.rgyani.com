@@ -14,7 +14,7 @@ Survive the wild, master the elements, solve puzzles, scale cliffs, swing ropes,
 <div id="keywords" style="visibility: hidden">survival,parkour,cliff,puzzles,wildlife encounters,adventure,wilderness,nature,rope swing, ledge jumping,third-person exploration,immersive exploration,breathtaking landscapes,parkour mechanics,cliff climbing,rope swinging,ledge jumping,,stamina management,fluid parkour,climbing simulator,obstacle navigation,terrain mastery, action exploration, realistic physics, dangerous leaps, timed actions, parkour survival, ledge grabbing
       </div>
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6jvGG1lbvYE" frameborder="0"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SP6-mNKblxs" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
@@ -40,8 +40,7 @@ But the journey is treacherous. Cliffs, slick slopes, and dizzying heights make 
 
 Unlike traditional survival games, **Wild Horizon** isn’t about chopping down trees, gathering stones, or building cozy shelters. **Let's be real—you're not here to start a new life in the wild!** Your goal is to get back home... because there are way easier games waiting.
 
-[!![WildHorizon Aircraft](/img/wildhorizon_aircraft.gif)](https://youtu.be/CbY-r-iZuDM)
-
+![WildHorizon Aircraft](/img/wildhorizon_aircraft2.gif)
 
 ### Precision-Based Movement
 Your survival depends on mastering a set of fluid traversal mechanics designed to test your skill and strategy:
@@ -58,8 +57,7 @@ Your journey relies purely on your skills, timing, and quick thinking. Every lea
 
 **You'll need to manage your stamina wisely**—lose focus, and you risk slipping, plummeting into the depths below
 
-[!![WildHorizon Stamina](/img/wildhorizon_climb.gif)](https://youtu.be/2xNuu5KnJWw)
-
+![WildHorizon Stamina](/img/wildhorizon_stamina.gif)
 
 ### Nature's Ferocious Hunters
 
@@ -67,11 +65,7 @@ But the wilderness isn't just about cliffs and heights. **Predatory animals lurk
 
 Outsmarting them is your best bet.
 
-[!![WildHorizon Wolf](/img/wildhorizon_wolf.gif)](https://youtu.be/qlnX2hD9Na8)
-
-[!![WildHorizon Bear](/img/wildhorizon_bear.gif)](https://youtu.be/DNHmVZbPk5I)
-
-[!![WildHorizon Boar](/img/wildhorizon_boar.gif)](https://youtu.be/7vyUOqE5vuI)
+![Wild horizon Bear](../img/wildhorizon_bear.gif)
 
 ### Think, Solve, Survive
 
