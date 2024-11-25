@@ -53,7 +53,7 @@ Your survival depends on mastering a set of fluid traversal mechanics designed t
 Each maneuver is designed to test your precision and timing while offering unique solutions to environmental challenges.
 
 
-### Stamina: Your Keys to Survival
+### Stamina: Your Key to Survival
 
 Your journey relies purely on your skills, timing, and quick thinking. Every leap, every climb, every jump between ledges drains your stamina. 
 
