@@ -111,3 +111,17 @@ Each environment presents different survival challenges, from scaling sheer clif
 
 Wishist **Wild Horizon: Edge of Survival** today and help bring this thrilling journey to life!  
 Together, we can craft an unforgettable survival experience that pushes the limits of skill, strategy, and exploration.
+
+
+<div class="download-buttons">
+    <a target="_blank"
+       href="https://store.steampowered.com/app/3362500/Wild_Horizon_Edge_of_Survival/">
+        <img class="link" src="img/ui/wishlist.png"></a>
+</div>
+
+
+<div class="keywords" style="visibility: hidden; height: 0; width: 0; overflow: hidden;">
+survival, parkour, cliff, puzzles, wildlife encounters, adventure, wilderness, nature, rope swing, ledge jumping, third-person exploration, immersive exploration, breathtaking landscapes, parkour mechanics, cliff climbing, rope swinging, ledge jumping, stamina management, fluid parkour, climbing simulator, obstacle navigation, terrain mastery, action exploration, realistic physics, dangerous leaps, timed actions, parkour survival, ledge grabbing
+</div>
+
+

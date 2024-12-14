@@ -51,7 +51,7 @@ Ready to hit the courts? Download Toonie Tennis today and start your journey to 
 </div>
 <div class="download-buttons">
     <a target="_blank"
-       href="https://store.steampowered.com/app/3084510">
+       href="https://store.steampowered.com/app/3084510/Toonie_Tennis/">
         <img class="link" src="img/ui/steam.png"></a>
 </div>
 

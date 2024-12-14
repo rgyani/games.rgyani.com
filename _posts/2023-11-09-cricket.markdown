@@ -46,6 +46,12 @@ Download now and become a Cricket Legend!
 </div>
 <div class="download-buttons">
     <a target="_blank"
-       href="https://store.steampowered.com/app/3091200">
+       href="https://store.steampowered.com/app/3091200/Cricket_Legends/">
         <img class="link" src="img/ui/steam.png"></a>
+</div>
+
+
+
+<div class="keywords" style="visibility: hidden; height: 0; width: 0; overflow: hidden;">
+cricket game, realistic cricket simulation, cricket match, cricket stars, in-game commentary, progressive difficulty, no upgrades needed, authentic gameplay, cricket experience, cricket simulation, sports game, mobile cricket game, cricket skills, hit sixes, take wickets, strategic gameplay, cricket fans 
 </div>
