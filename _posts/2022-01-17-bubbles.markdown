@@ -2,7 +2,7 @@
 title:  "Bubbles: Learn a Language"
 gameid: "bubbles"
 image: "img/bubbles.jpg"
-date:   2024-01-14
+date: 2022-01-17
 ---
 
 Bubbles, helps you achieve your language learning goals, with an efficient approach by mastering the vocabulary, using interesting puzzles.

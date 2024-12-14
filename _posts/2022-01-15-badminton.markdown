@@ -2,7 +2,7 @@
 title:  "Badminton 2D"
 gameid: "badminton"
 image: "img/badminton.jpg"
-date:   2024-01-15
+date: 2022-01-15
 ---
 
 **Experience the Thrill of Badminton**

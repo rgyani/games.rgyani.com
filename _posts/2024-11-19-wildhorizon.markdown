@@ -3,7 +3,8 @@ compress_html: false
 title:  "Wild Horizon: Edge of Survival"
 gameid : "wildhorizon"
 image: "img/wildhorizon-intro.jpg"
-date:   2024-11-19
+date: 2024-11-19
+description: "Survive the wild, master the elements, solve puzzles, scale cliffs, swing ropes, leap ledges, outsmart animals, and find your way home."
 ---
 
 Survive the wild, master the elements, solve puzzles, scale cliffs, swing ropes, leap ledges, outsmart animals, and find your way home.

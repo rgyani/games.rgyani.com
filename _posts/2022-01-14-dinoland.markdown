@@ -2,7 +2,7 @@
 title:  "DinoLand: Hunt or be Hunted!"
 gameid: "dinoland"
 image: "img/dinoland.jpg"
-date:   2024-01-12
+date: 2022-01-14
 ---
 
 Dedicated to the classic Jurassic series, put yourself in the movie scenes and face those dinosaurs all over again. No retakes, ofcourse!
