@@ -1,0 +1,72 @@
+---
+layout: compress
+---
+{% assign post = site.posts | where: "gameid", "cricket" | first %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ post.title}}</title>
+  <meta name="description" content="{{ post.description}}"">
+  <meta property="og:title" content="{{ post.title }}" />
+  <meta property="og:description" content="{{ post.title }}">
+  <meta property="og:type" content="game" />
+  <meta property="og:locale" content="en_EN" />
+  <meta property="al:ios:app_name" content="{{ post.title }}" />
+  <meta property="al:android:app_name" content="{{ post.title }}" />
+  <meta property="al:web:should_fallback" content="false" />
+
+  <script>
+    function redirect() {
+      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+      var ios = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream;
+      if (ios) {
+        window.setTimeout(() => {
+          window.location.replace('https://apps.apple.com/us/app/cricket-legends/id6470269023')
+        }, 25)
+        return
+      }
+      var android = /android/i.test(userAgent);
+      if (android) {
+        window.setTimeout(() => {
+          window.location.replace('market://details?id=com.rgyani.cricket.ipl')
+        }, 25)
+        return
+      }
+      // window.location.replace('https://rgyani.com/#cricket')
+    }
+    redirect()
+  </script>
+  <style>
+    html { 
+        margin: 0; padding: 0;
+        font-family: Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
+        background: url('img/cricket.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        
+    }
+  </style>
+  </style>
+  <link rel="stylesheet" type="text/css" href="css/content.css" />
+  <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css" />
+
+</head>
+
+<body>
+  <div class="card__content">
+    <div class="card__data">
+      <a href="https://rgyani.com"><i class="card__btn-close fa fa-times"></i></a>
+
+      <h1> {{post.title}} </h1>
+
+      <div> {{post.content}} </div>
+    </div>
+  </div>
+</body>
+
+</html>

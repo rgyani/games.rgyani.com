@@ -1,0 +1,13 @@
+---
+title:  "DinoLand: Hunt or be Hunted!"
+gameid: "dinoland"
+image: "img/dinoland.jpg"
+date: 2022-01-14
+---
+
+Dedicated to the classic Jurassic series, put yourself in the movie scenes and face those dinosaurs all over again. No retakes, ofcourse!
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5wWDpOUWN8g" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

@@ -1,0 +1,57 @@
+---
+title:  "Cricket Legends"
+gameid: "cricket"
+image: "img/cricket.jpg"
+date: 2023-11-09
+description: "Authentic Cricket Experience!"
+---
+
+**Authentic Cricket Experience!**
+
+Get ready to step onto the pitch and play the most immersive and realistic cricket game on the App Store. "Cricket Legends" brings the thrill of cricket right to your fingertips. Whether you’re a seasoned pro or a cricket newbie, this game is designed to provide an unmatched cricketing experience.
+
+**Key Features:**
+
+🔄 **Relive Legendary Matches:** Play as legendary cricket stars and experience their most memorable moments. Feel the adrenaline rush as you take crucial wickets, hit towering sixes, and make game-changing plays.
+
+🎮 **Authentic Gameplay:** Enjoy realistic cricket simulations with intuitive controls and stunning graphics that bring the game to life.
+
+⚾ **Easy to Play, Hard to Master:** As matches become more challenging, you'll need sharp focus and strategic shot selection, just like in real cricket.
+
+⭐ **No Upgrades Needed:** Players come with their known abilities just like in real-life, no collecting coins or cards to enhance their skills.
+
+💬 **In-Game Commentary:** Enjoy real-time commentary during matches.
+
+📉 **Progressive Difficulty:** Matches become significantly more challenging as you lose wickets, just like in a real cricket game.
+
+<br/>
+
+**Why Cricket Legends?**  
+
+Cricket Legends is more than just a game; it's a journey through cricket’s greatest moments. Whether you’re looking to relive the glory days or experience them for the first time, Cricket Legends offers a unique and engaging experience that you won’t find anywhere else.
+
+Download now and become a Cricket Legend!
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QTXwpHocYME" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<div class="download-buttons">
+    <a target="_blank"
+       href="https://play.google.com/store/apps/details?id=com.rgyani.cricket.ipl">
+        <img class="link" src="img/ui/playstore.png"></a>
+    <a target="_blank"
+       href="https://apps.apple.com/us/app/cricket-legends/id6470269023">
+        <img class="link" src="img/ui/appstore.png"></a>
+</div>
+<div class="download-buttons">
+    <a target="_blank"
+       href="https://store.steampowered.com/app/3091200/Cricket_Legends/">
+        <img class="link" src="img/ui/steam.png"></a>
+</div>
+
+
+
+<div class="keywords" style="visibility: hidden; height: 0; width: 0; overflow: hidden;">
+cricket game, realistic cricket simulation, cricket match, cricket stars, in-game commentary, progressive difficulty, no upgrades needed, authentic gameplay, cricket experience, cricket simulation, sports game, mobile cricket game, cricket skills, hit sixes, take wickets, strategic gameplay, cricket fans 
+</div>
