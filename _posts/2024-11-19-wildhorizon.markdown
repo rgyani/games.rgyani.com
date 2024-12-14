@@ -5,6 +5,10 @@ gameid : "wildhorizon"
 image: "img/wildhorizon-intro.jpg"
 date: 2024-11-19
 description: "Survive the wild, master the elements, solve puzzles, scale cliffs, swing ropes, leap ledges, outsmart animals, and find your way home."
+language: en
+locale: en_EN
+layout: wildhorizon
+permalink: /wildhorizon.html
 ---
 
 Survive the wild, master the elements, solve puzzles, scale cliffs, swing ropes, leap ledges, outsmart animals, and find your way home.
@@ -117,7 +121,7 @@ Together, we can craft an unforgettable survival experience that pushes the limi
 <div class="download-buttons">
     <a target="_blank"
        href="https://store.steampowered.com/app/3362500/Wild_Horizon_Edge_of_Survival/">
-        <img class="link" src="img/ui/wishlist.png"></a>
+        <img class="link" src="/img/ui/wishlist.png"></a>
 </div>
 
 

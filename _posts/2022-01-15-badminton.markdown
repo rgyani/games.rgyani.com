@@ -3,6 +3,8 @@ title:  "Badminton 2D"
 gameid: "badminton"
 image: "img/badminton.jpg"
 date: 2022-01-15
+language: en
+locale: en_EN
 ---
 
 **Experience the Thrill of Badminton**

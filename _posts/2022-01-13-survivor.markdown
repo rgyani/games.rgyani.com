@@ -3,6 +3,8 @@ title:  "Survivor Series: The Island"
 gameid: "survivor"
 image: "img/survivor.jpg"
 date: 2022-01-13
+language: en
+locale: en_EN
 ---
 
 Survivor Series: The Islands, is a FREE survival and strategy game, where you have one objective: survive the island your plane crashed onto, repair the broken radio and call for rescue. You need to GATHER various resources like pine logs, lime stone etc., COOK your own food, CRAFT rudimentary weapons, nails, screws, bolts to REPAIR the radio.

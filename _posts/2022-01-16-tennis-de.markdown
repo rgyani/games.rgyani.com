@@ -1,0 +1,66 @@
+---
+title:  "Toonie Tennis"
+gameid: "tennis"
+image: "img/tennis.jpg"
+date: 2022-01-16
+description: "Genießen Sie ein rasantes Tennisspiel"
+language: de
+locale: de_DE
+layout: tennis
+permalink: /de/tennis.html
+---
+
+**Aufschlag, Smash, Slice, Volley im ultimativen Arcade-Tennisspiel!**
+
+Betritt den Court mit **Toonie Tennis**, dem ultimativen Arcade-Tennis-Erlebnis!  
+Egal, ob du ein erfahrener Tennisprofi bist oder neu im Sport, Toonie Tennis bietet ein spannendes und immersives Spiel, das sich an alle Fähigkeitsstufen richtet.
+
+Mit seinem dynamischen Gameplay, farbenfrohen Grafiken und fesselnden Mechaniken ist Toonie Tennis ein Muss für alle Sportbegeisterten.
+
+**Hauptmerkmale:**
+
+🎾 **Dynamische Tennis-Action**: Genieße rasante Tennismatches mit intuitiven Steuerungen, die es einfach machen, mit Aufschlägen, Volleys und Smashes den Sieg zu erringen. Die reaktionsschnellen Touch-Steuerungen sorgen für ein reibungsloses und realistisches Tenniserlebnis. Egal, ob du eine Maus oder einen Controller benutzt, du kannst die genaue Platzierung deiner Schläge wählen und damit unvergleichliche Präzision auf dem Platz erreichen.
+
+⚙️ **Realistische Physik**: Erlebe lebensechte Ballphysik, die auf jeden Spin, Slice und Smash reagiert, den du ausführst. Dank unserer fortschrittlichen Physik-Engine fühlt sich jedes Match einzigartig und herausfordernd an.
+
+🎯 **Präzise Schlagplatzierung**: Meistere die Kunst der Präzision mit akkurater Schlagplatzierung. Ziele auf die Ecken, greife die Schwachstellen deines Gegners an oder setze mühelos den perfekten Lob, um deinen Gegner zu überlisten und den Court zu dominieren.
+
+🏆 **Wettkämpfen und Gewinnen**: Fordere dich selbst gegen KI-Gegner heraus, die unterschiedliche Fähigkeitsstufen und Spielstile bieten. Unsere KI passt sich deinem Gameplay an und sorgt dafür, dass jedes Match eine Prüfung deiner Fähigkeiten und Strategien ist.
+
+🤩 **Einzigartige Charaktere und Plätze**: Schalte eine Vielzahl von lustigen, toonartigen Charakteren frei und spiele mit ihnen, die alle ihren einzigartigen Stil ins Spiel bringen. Tritt auf vielfältigen Plätzen an, die mit beeindruckenden Themen und Umgebungen das visuelle Erlebnis bereichern.
+
+💪 **Fähigkeitenentwicklung**: Verbessere deine Fähigkeiten mit Übungsmodi und Drills, die darauf ausgelegt sind, Technik und Strategie zu verfeinern. Perfektioniere dein Timing, deine Präzision und Schlagplatzierung, um deine Gegner auszutricksen.
+
+<br/>
+
+**Warum Toonie Tennis?**
+
+Toonie Tennis bringt die Spannung und den Wettbewerb des echten Tennis direkt in deine Hände. Mit seinem fesselnden Gameplay, der Vielfalt an Charakteren und Plätzen sowie kontinuierlichen Updates ist es das perfekte Spiel für Tennisliebhaber und Sportspieler gleichermaßen. Egal, ob du ein schnelles Match oder ein intensives Turnier suchst, Toonie Tennis bietet endlosen Spaß und ein erstklassiges Tennis-Erlebnis.
+
+**Jetzt herunterladen!**
+
+Bereit, den Court zu erobern? Lade Toonie Tennis noch heute herunter und beginne deine Reise, um der ultimative Tennis-Champion zu werden!
+
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RcJv_bxShWc" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<div class="download-buttons">
+    <a target="_blank"
+       href="https://play.google.com/store/apps/details?id=com.rGyani.Tennis">
+        <img class="link" src="/img/ui/playstore.png"></a>
+    <a  target="_blank"
+       href="https://apps.apple.com/us/app/toonie-tennis/id1610304081">
+        <img class="link" src="/img/ui/appstore.png"></a>
+</div>
+<div class="download-buttons">
+    <a target="_blank"
+       href="https://store.steampowered.com/app/3084510/Toonie_Tennis/">
+        <img class="link" src="/img/ui/steam.png"></a>
+</div>
+
+
+<div class="keywords" style="visibility: hidden; height: 0; width: 0; overflow: hidden;">
+survival, parkour, cliff, puzzles, wildlife encounters, adventure, wilderness, nature, rope swing, ledge jumping, third-person exploration, immersive exploration, breathtaking landscapes, parkour mechanics, cliff climbing, rope swinging, ledge jumping, stamina management, fluid parkour, climbing simulator, obstacle navigation, terrain mastery, action exploration, realistic physics, dangerous leaps, timed actions, parkour survival, ledge grabbing
+</div>

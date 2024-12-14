@@ -4,6 +4,10 @@ gameid: "tennis"
 image: "img/tennis.jpg"
 date: 2022-01-16
 description: "Enjoy a fast-paced Tennis game"
+language: en
+locale: en_EN
+layout: tennis
+permalink: /tennis.html
 ---
 
 **Serve, Smash, Slice, Volley in the ultimate arcade Tennis game!**

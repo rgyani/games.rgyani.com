@@ -3,6 +3,8 @@ title:  "LetsPark 3D"
 gameid: "letspark"
 image: "img/letspark.jpg"
 date: 2022-01-12
+language: en
+locale: en_EN
 ---
 
 An enjoyable car parking simulation game

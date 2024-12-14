@@ -4,6 +4,8 @@ gameid: "cricket"
 image: "img/cricket.jpg"
 date: 2023-11-09
 description: "Authentic Cricket Experience!"
+language: en
+locale: en_EN
 ---
 
 **Authentic Cricket Experience!**

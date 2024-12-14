@@ -3,6 +3,9 @@ title:  "LetsBat - World Cup Edition"
 gameid : "letsbat"
 image: "img/letsbat.jpg"
 date: 2022-01-10
+language: en
+locale: en_EN
+
 ---
 
 Relive those favorite World Cup memories by putting yourselves in batsmen shoes.
