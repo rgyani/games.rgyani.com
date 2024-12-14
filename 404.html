@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found</title>
+  
+  <!-- Redirect to the homepage after 3 seconds -->
+  <meta http-equiv="refresh" content="3;url=/" />
+  
+  <script type="text/javascript">
+    // JavaScript redirect in case meta refresh fails
+    setTimeout(function() {
+      window.location.href = '/';
+    }, 3000);
+  </script>
+  
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 36px;
+      color: #ff0000;
+    }
+    p {
+      font-size: 18px;
+    }
+  </style>
+
+</head>
+
+<body>
+  <h1>404 - Page Not Found</h1>
+  <p>Sorry, the page you're looking for doesn't exist. You will be redirected to the homepage shortly.</p>
+</body>
+
+</html>
