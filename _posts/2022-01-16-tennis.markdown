@@ -1,8 +1,9 @@
 ---
-title:  "Tennis"
+title:  "Toonie Tennis"
 gameid: "tennis"
 image: "img/tennis.jpg"
 date:   2024-01-16
+description: "Enjoy a fast-paced Tennis game"
 ---
 
 **Serve, Smash, Slice, Volley in the ultimate arcade Tennis game!**
@@ -14,17 +15,17 @@ With its dynamic gameplay, colorful graphics, and engaging mechanics, Toonie Ten
 
 **Key Features:**
 
-🎾 **Dynamic Tennis Action**: Enjoy fast-paced tennis matches with intuitive controls that make it easy to serve, volley, and smash your way to victory. The responsive touch controls ensure a smooth and realistic tennis experience. Whether you're using a mouse or a controller, you can choose the exact placement of your shots, delivering unmatched precision on the court.
+- **Dynamic Tennis Action**: Enjoy fast-paced tennis matches with intuitive controls that make it easy to serve, volley, and smash your way to victory. The responsive touch controls ensure a smooth and realistic tennis experience. Whether you're using a mouse or a controller, you can choose the exact placement of your shots, delivering unmatched precision on the court.
 
-⚙️ **Realistic Physics**: Enjoy lifelike ball physics that react to every spin, slice, and smash you perform. Each match feels unique and challenging, thanks to our advanced physics engine.
+- **Realistic Physics**: Enjoy lifelike ball physics that react to every spin, slice, and smash you perform. Each match feels unique and challenging, thanks to our advanced physics engine.
 
-🎯 **Precision Shot Placement**: Master the art of precision with accurate shot placement. Aim for the corners, target your opponent's weak side, or go for that perfect lob with ease to exploit your opponent's weaknesses and dominate the court
+- **Precision Shot Placement**: Master the art of precision with accurate shot placement. Aim for the corners, target your opponent's weak side, or go for that perfect lob with ease to exploit your opponent's weaknesses and dominate the court
 
-🏆 **Compete and Win**: Challenge yourself against AI opponents with varying skill levels and playstyles. Our AI adapts to your gameplay, ensuring that every match is a test of skill and strategy.
+- **Compete and Win**: Challenge yourself against AI opponents with varying skill levels and playstyles. Our AI adapts to your gameplay, ensuring that every match is a test of skill and strategy.
 
-🤩 **Unique Characters and Courts**: Unlock and play with a wide range of fun, toon-styled characters, each bringing their unique flair to the game. Compete on diverse courts with stunning themes and environments that enhance the visual experience.
+- **Unique Characters and Courts**: Unlock and play with a wide range of fun, toon-styled characters, each bringing their unique flair to the game. Compete on diverse courts with stunning themes and environments that enhance the visual experience.
 
-💪 **Skill Development**: Hone your skills with practice modes and drills designed to improve your technique and strategy. Perfect your timing, precision, and shot placement to outsmart your opponents.
+- **Skill Development**: Hone your skills with practice modes and drills designed to improve your technique and strategy. Perfect your timing, precision, and shot placement to outsmart your opponents.
 
 <br/>
 
@@ -52,4 +53,9 @@ Ready to hit the courts? Download Toonie Tennis today and start your journey to 
     <a target="_blank"
        href="https://store.steampowered.com/app/3084510">
         <img class="link" src="img/ui/steam.png"></a>
+</div>
+
+
+<div class="keywords" style="visibility: hidden; height: 0; width: 0; overflow: hidden;">
+survival, parkour, cliff, puzzles, wildlife encounters, adventure, wilderness, nature, rope swing, ledge jumping, third-person exploration, immersive exploration, breathtaking landscapes, parkour mechanics, cliff climbing, rope swinging, ledge jumping, stamina management, fluid parkour, climbing simulator, obstacle navigation, terrain mastery, action exploration, realistic physics, dangerous leaps, timed actions, parkour survival, ledge grabbing
 </div>

@@ -17,15 +17,15 @@ Survive the wild, master the elements, solve puzzles, scale cliffs, swing ropes,
 
 ### Key Features:
 
-- **Immersive Third-Person Exploration**:  
+- **Immersive Third-Person Exploration:**    
   Traverse a breathtaking, untamed world filled with jagged cliffs, steep slopes, and awe-inspiring vistas. The environment is as beautiful as it is deadly, capturing the raw power of nature.
-- **Dynamic Traversal and Movement Challenges**: 
+- **Dynamic Traversal and Movement Challenges:**   
   Perform daring maneuvers like mantling steep plateaus, leaping across perilous gaps, sprinting along wall to cross deadly chasms, swinging on ropes over dizzying heights, and clinging to narrow ledges to avoid plunging into the depths below.
-- **Stamina Management**:
+- **Stamina Management:**  
   Carefully manage your stamina to stay alive in this unforgiving wilderness.
-- **Intricate Puzzle Mechanics**:  
+- **Intricate Puzzle Mechanics:**    
   Unlock vital tools by solving puzzles that challenge your observation and logic.
-- **Wildlife Encounters**:  
+- **Wildlife Encounters:**  
   Outsmart dangerous predators using your surroundings and clever tactics. Brute force isn't an option—your wits are your only weapon.
 
 
@@ -36,7 +36,7 @@ You awaken in the aftermath of a catastrophic plane crash, alone and isolated fr
 But the journey is treacherous. Cliffs, slick slopes, and dizzying heights make even the simplest tasks perilous.  
 
 
-Unlike traditional survival games, **Wild Horizon** isn’t about chopping down trees, gathering stones, or building cozy shelters. **Let's be real—you're not here to start a new life in the wild!** Your goal is to get back home.
+Unlike traditional survival games, **Wild Horizon** isn't about chopping down trees, gathering stones, or building cozy shelters. **Let's be real—you're not here to start a new life in the wild!** Your goal is to get back home.
 
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bgdQgfo01xA" frameborder="0"
@@ -111,6 +111,3 @@ Each environment presents different survival challenges, from scaling sheer clif
 
 Wishist **Wild Horizon: Edge of Survival** today and help bring this thrilling journey to life!  
 Together, we can craft an unforgettable survival experience that pushes the limits of skill, strategy, and exploration.
-
-
-[!![WildHorizon On Steam](/img/ui/wishlist.png)](https://store.steampowered.com/app/3362500/Wild_Horizon_Edge_of_Survival/)

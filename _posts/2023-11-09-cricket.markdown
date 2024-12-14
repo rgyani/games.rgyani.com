@@ -1,8 +1,9 @@
 ---
-title:  "Cricket!"
+title:  "Cricket Legends"
 gameid: "cricket"
 image: "img/cricket.jpg"
-date:   2024-01-17
+date:   2020-01-17
+description: "Authentic Cricket Experience!"
 ---
 
 **Authentic Cricket Experience!**
@@ -11,17 +12,17 @@ Get ready to step onto the pitch and play the most immersive and realistic crick
 
 **Key Features:**
 
-🔄 **Relive Legendary Matches:** Play as legendary cricket stars and experience their most memorable moments. Feel the adrenaline rush as you take crucial wickets, hit towering sixes, and make game-changing plays.
+- **Relive Legendary Matches:** Play as legendary cricket stars and experience their most memorable moments. Feel the adrenaline rush as you take crucial wickets, hit towering sixes, and make game-changing plays.
 
-🎮 **Authentic Gameplay:** Enjoy realistic cricket simulations with intuitive controls and stunning graphics that bring the game to life.
+- **Authentic Gameplay:** Enjoy realistic cricket simulations with intuitive controls and stunning graphics that bring the game to life.
 
-⚾ **Easy to Play, Hard to Master:** As matches become more challenging, you'll need sharp focus and strategic shot selection, just like in real cricket.
+- **Easy to Play, Hard to Master:** As matches become more challenging, you'll need sharp focus and strategic shot selection, just like in real cricket.
 
-⭐ **No Upgrades Needed:** Players come with their known abilities just like in real-life, no collecting coins or cards to enhance their skills.
+- **No Upgrades Needed:** Players come with their known abilities just like in real-life, no collecting coins or cards to enhance their skills.
 
-💬 **In-Game Commentary:** Enjoy real-time commentary during matches.
+- **In-Game Commentary:** Enjoy real-time commentary during matches.
 
-📉 **Progressive Difficulty:** Matches become significantly more challenging as you lose wickets, just like in a real cricket game.
+- **Progressive Difficulty:** Matches become significantly more challenging as you lose wickets, just like in a real cricket game.
 
 <br/>
 
