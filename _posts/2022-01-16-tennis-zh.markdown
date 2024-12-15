@@ -1,0 +1,65 @@
+---
+title: "Toonie Tennis"
+gameid: "tennis"
+image: "img/tennis.jpg"
+date: 2022-01-16
+description: "享受快节奏的网球游戏"
+language: zh
+locale: zh_CN
+layout: tennis
+permalink: /zh/tennis.html
+---
+
+**发球、扣杀、切削、截击，尽享终极街机网球游戏！**
+
+踏上球场，体验 **Toonie Tennis**，终极街机网球体验！  
+无论你是经验丰富的网球高手还是初学者，Toonie Tennis 都能为你提供一款令人兴奋且沉浸感十足的游戏，适合所有技能水平的玩家。
+
+凭借其动态玩法、丰富多彩的画面和引人入胜的机制，Toonie Tennis 是所有体育迷不可错过的必玩之作。
+
+**主要特色：**
+
+🎾 **动态网球动作**: 享受快节奏的网球比赛，直观的操作让你轻松发球、截击和扣杀，走向胜利。响应灵敏的触摸控制确保了流畅且真实的网球体验。无论使用鼠标还是手柄，都可以精准选择击球位置，在球场上展现无与伦比的精确度。
+
+⚙️ **真实物理效果**: 体验逼真的球体物理效果，每次旋转、切削和扣杀都如实反映你的操作。借助先进的物理引擎，每场比赛都独特且富有挑战性。
+
+🎯 **精准击球**: 掌握精准击球的艺术。轻松瞄准角落，针对对手的弱点发起攻击，或完成完美挑高球，充分利用对手的漏洞，主宰球场。
+
+🏆 **竞争与胜利**: 挑战各种具有不同技能水平和打法风格的 AI 对手。我们的 AI 会适应你的游戏风格，确保每场比赛都是对技能与策略的考验。
+
+🤩 **独特角色与球场**: 解锁并使用多种有趣的卡通风格角色，每个角色都带来独特的魅力。在不同主题和环境的球场上比赛，获得更加精彩的视觉体验。
+
+💪 **技能提升**: 通过专为提升技术和策略而设计的练习模式和训练项目提高你的技能。完美掌握时机、精准度和击球技巧，击败你的对手。
+
+<br/>
+
+**为什么选择 Toonie Tennis？**
+
+Toonie Tennis 将真实网球的激烈与竞争带到你的指尖。凭借其引人入胜的玩法、多样化的角色与球场，以及持续更新，它是网球爱好者和体育游戏玩家的完美之选。无论是快速比赛还是激烈的锦标赛，Toonie Tennis 都能提供无尽的乐趣和顶级的网球体验。
+
+**立即下载！**
+
+准备好踏上球场了吗？立即下载 Toonie Tennis，开启成为终极网球冠军的旅程！
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RcJv_bxShWc" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<div class="download-buttons">
+    <a target="_blank"
+       href="https://play.google.com/store/apps/details?id=com.rGyani.Tennis">
+        <img class="link" src="/img/ui/playstore.png"></a>
+    <a  target="_blank"
+       href="https://apps.apple.com/us/app/toonie-tennis/id1610304081">
+        <img class="link" src="/img/ui/appstore.png"></a>
+</div>
+<div class="download-buttons">
+    <a target="_blank"
+       href="https://store.steampowered.com/app/3084510/Toonie_Tennis/">
+        <img class="link" src="/img/ui/steam.png"></a>
+</div>
+
+
+<div class="keywords" style="visibility: hidden; height: 0; width: 0; overflow: hidden;">
+survival, parkour, cliff, puzzles, wildlife encounters, adventure, wilderness, nature, rope swing, ledge jumping, third-person exploration, immersive exploration, breathtaking landscapes, parkour mechanics, cliff climbing, rope swinging, ledge jumping, stamina management, fluid parkour, climbing simulator, obstacle navigation, terrain mastery, action exploration, realistic physics, dangerous leaps, timed actions, parkour survival, ledge grabbing
+</div>
