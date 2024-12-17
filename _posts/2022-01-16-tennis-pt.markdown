@@ -1,0 +1,42 @@
+---
+title:  "Toonie Tennis"
+gameid: "tennis"
+image: "img/tennis.jpg"
+date: 2022-01-16
+description: "Desfrute de um jogo de tênis dinâmico e eletrizante"
+language: pt
+locale: pt_BR
+layout: tennis
+permalink: /pt/tennis.html
+---
+
+**Saque, Smash, Slice e Voleio no jogo de tênis arcade definitivo!**
+
+Entre na quadra com **Toonie Tennis**, a experiência definitiva do tênis arcade!  
+Seja você um profissional experiente ou um novato no esporte, Toonie Tennis oferece um jogo empolgante e imersivo que atende a todos os níveis de habilidade.
+
+Com sua jogabilidade dinâmica, gráficos coloridos e mecânicas envolventes, Toonie Tennis é um jogo obrigatório para todos os fãs de esportes.
+
+**Principais Recursos:**
+
+🎾 **Ação Dinâmica de Tênis**: Aproveite partidas rápidas de tênis com controles intuitivos que facilitam sacar, voleiar e dar smashes para alcançar a vitória. Os controles responsivos garantem uma experiência realista e fluida. Seja usando o mouse ou um controle, você pode escolher a colocação exata dos seus golpes, oferecendo precisão incomparável na quadra.
+
+⚙️ **Física Realista**: Desfrute de uma física realista da bola que reage a cada spin, slice e smash que você realizar. Cada partida é única e desafiadora, graças ao nosso avançado motor de física.
+
+🎯 **Colocação Precisa de Golpes**: Domine a arte da precisão com colocação exata dos golpes. Mire nos cantos, ataque o lado fraco do seu oponente ou execute o lob perfeito com facilidade para explorar as fraquezas do adversário e dominar a quadra.
+
+🏆 **Compita e Vença**: Desafie-se contra oponentes de IA com níveis de habilidade e estilos de jogo variados. Nossa IA se adapta ao seu estilo de jogo, garantindo que cada partida seja um teste de habilidade e estratégia.
+
+🤩 **Personagens e Quadras Únicos**: Desbloqueie e jogue com uma ampla gama de personagens divertidos e estilizados, cada um trazendo seu toque único ao jogo. Compita em quadras diversas com temas e ambientes deslumbrantes que melhoram a experiência visual.
+
+💪 **Desenvolvimento de Habilidades**: Aprimore suas habilidades com modos de prática e exercícios projetados para melhorar sua técnica e estratégia. Aperfeiçoe seu tempo, precisão e colocação dos golpes para superar seus oponentes.
+
+<br/>
+
+**Por que Toonie Tennis?**
+
+Toonie Tennis traz a emoção e a competitividade do tênis real para a ponta dos seus dedos. Com sua jogabilidade envolvente, variedade de personagens e quadras, além de atualizações contínuas, é o jogo perfeito para amantes de tênis e fãs de jogos esportivos. Se você busca uma partida rápida ou um torneio intenso, Toonie Tennis oferece diversão sem fim e uma experiência de tênis de alto nível.
+
+**Baixe Agora!**
+
+Pronto para entrar na quadra? Baixe Toonie Tennis hoje mesmo e comece sua jornada para se tornar o campeão definitivo do tênis!
