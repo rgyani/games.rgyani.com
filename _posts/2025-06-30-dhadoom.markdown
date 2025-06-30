@@ -1,0 +1,58 @@
+---
+compress_html: false
+title:  "Dhadoom!"
+gameid : "dhadoom"
+image: "img/dhadoom.png"
+date: 2025-06-30
+description: High-speed parkour obstacle racing with wild courses, fierce rivals, and nonstop action!"
+language: en
+locale: en_EN
+layout: dhadoom
+permalink: /dhadoom.html
+---
+Ready to run, jump, swing, and slide through obstacle courses so wild they’d make a stunt double quit? 
+
+
+
+Welcome to **Dhadoom**!—a parkour racer where you defy gravity, conquer chaos, and taunt giant hammers while swinging for the win!
+
+
+Show off your parkour prowess with a wild arsenal of moves:
+* **Sprint and vault** like you’re outrunning a herd of caffeinated squirrels.
+* **Swing on ropes** across gaping chasms, channeling your inner action hero (minus the stunt double).
+* **Slide** under obstacles with slick style - or just pray your face doesn’t eat dirt.
+* **Cling to ledges** and nail those jumps, because gravity’s not your hype man!
+* **Push or dodge giant boxes** - parkour’s version of “surprise, you’re a mover now!”
+* Outsmart **swinging hammers and pendulums** that have a personal grudge and zero chill.
+
+
+Race through chaotic playgrounds packed with splashy water, slippery mud, and crunchy snow—every step, stomp, and slide leaves epic ripples to prove you’re a parkour legend. Why let the environment sleep on your greatness?
+
+Face-off against a cast of quirky AI challengers, each with their own “unique” personalities and questionable tactics. They might be fast, sneaky, or just plain goofy, but one thing’s for sure — they’ll keep you on your toes.
+
+**Multiplayer is coming soon**, so you can challenge your friends to find out who’s the real parkour king or queen — or just who falls flat on their face the most.
+
+
+Whether you’re chasing personal bests, outsmarting AI, or gearing up for future multiplayer chaos, Dhadoom! delivers adrenaline-pumping parkour thrills with a big goofy grin.
+
+
+
+Get ready to dominate, wipe out, and laugh at your own glorious disasters—Dhadoom! is here to test your skills and your sanity!
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/R3UwPfVpHfc" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<div class="download-buttons">
+    <a target="_blank"
+       href="https://store.steampowered.com/app/3789380/Dhadoom/">
+        <img class="link" src="/img/ui/steam.png"></a>
+</div>
+
+
+<div class="keywords" style="visibility: hidden; height: 0; width: 0; overflow: hidden;">
+Dhadoom, obstacle course game, funny multiplayer game, Wipeout game, Takeshi’s Castle game, slapstick platformer, parkour game, local multiplayer, online multiplayer, ragdoll physics, 3D platformer, rope swing game, physics-based game, party game, couch
+</div>
+
+
