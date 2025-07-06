@@ -2,7 +2,7 @@
 compress_html: false
 title:  "Dhadoom!"
 gameid : "dhadoom"
-image: "img/dhadoom.png"
+image: "img/dhadoom.jpg"
 date: 2025-06-30
 description: High-speed parkour obstacle racing with wild courses, fierce rivals, and nonstop action!"
 language: en
